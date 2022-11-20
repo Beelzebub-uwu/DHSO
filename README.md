@@ -1,4 +1,4 @@
-# dhso
+# DHSO
 
 Projecto Faqtos
 
